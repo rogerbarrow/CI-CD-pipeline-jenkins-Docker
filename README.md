@@ -9,4 +9,7 @@ Jenkins server
 Kubernetes cluster
 Helm package manager
 Argo CD
-Steps:
+
+Steps: 1 - Create a Ec2 Instance because of the size of the application and the tool we are using make sure the Instance t2.meduim or more i will be using t2.large 
+
+![image](https://github.com/rogerbarrow/CI-CD-pipeline-jenkins-Docker/assets/46138186/e2d7dfb5-0590-4873-b496-ddff02e1aab0)
