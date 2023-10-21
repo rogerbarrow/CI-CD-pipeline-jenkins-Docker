@@ -15,5 +15,9 @@ Steps: 1 - Create a Ec2 Instance because of the size of the application and the 
 ![image](https://github.com/rogerbarrow/CI-CD-pipeline-jenkins-Docker/assets/46138186/e2d7dfb5-0590-4873-b496-ddff02e1aab0)
 
 Steps: 2 Is install Jenkins, first get the instance Public IPV4 address
+![image](https://github.com/rogerbarrow/CI-CD-pipeline-jenkins-Docker/assets/46138186/84b5a7b1-8705-4050-9a33-7572f93bdbc4)
+
 
 ![image](https://github.com/rogerbarrow/CI-CD-pipeline-jenkins-Docker/assets/46138186/0994aa12-72cc-4427-a7f5-344075a54935)
+
+Steps: 3 SSH into the Instance using the Public IPV4 Adress 
