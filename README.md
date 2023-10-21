@@ -23,5 +23,6 @@ Steps: 2 Is install Jenkins, first get the instance Public IPV4 address
 Steps: 3 SSH into the Instance using the Public IPV4 Adress 
 ![image](https://github.com/rogerbarrow/CI-CD-pipeline-jenkins-Docker/assets/46138186/923035a4-4e92-4572-8221-597ba556c5ce)
 
+Steps: 4 Create a Jenkins Pipeline 
 ![image](https://github.com/rogerbarrow/CI-CD-pipeline-jenkins-Docker/assets/46138186/4cfb74c3-a66b-445f-846e-dadf35ff294e)
 
